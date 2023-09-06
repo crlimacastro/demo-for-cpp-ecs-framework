@@ -1,3 +1,3 @@
-[submodule "fae_framwork"]
-	path = fae_framwork
+[submodule "fae_framework"]
+	path = fae_framework
 	url = https://github.com/crlimacastro/fae-framework.git

@@ -1,3 +1,3 @@
-# fae
+# demo application
 
-Repository for all things "fae game engine". The framework, the editor, etc.
+Example application for c++ ECS framework
